@@ -6,7 +6,7 @@ It serves as a central reference for my completed courses and skill development.
 ---
 
 ## 🧠 Artificial Intelligence & Machine Learning
-- [AICTE Internship – Machine Learning](Sridharan S_AICTE_Certificate.pdf)
+- [AICTE Internship – Machine Learning](Sridharan_S_AICTE_Certificate.pdf)
 
 
 ## 📊 Data Analytics
